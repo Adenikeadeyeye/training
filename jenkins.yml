@@ -1,1 +1,20 @@
 <>this is for our class training </>
+<>this is for our class training </>
+
+<html>
+ <body>
+ <h1> My first code base </h1>
+ <p> My first paragraph </p>
+ </body>
+</html>
+
+
+
+create a Github
+install git on your local machine
+create a repository
+vs code, open file and repository folder
+git clone
+git add .
+git commit -m "description"
+git push
